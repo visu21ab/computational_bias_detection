@@ -1,4 +1,4 @@
-# computational_bias_detection
+# Computational Bias Detection in News Media 
 Master Thesis Project 
 
 **Description**
