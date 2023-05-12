@@ -14,7 +14,8 @@ To gain insights into this issue, this study proposes a framework for detecting 
 
 
 <br><br>**Results from Frame Identification**
-<img width="805" alt="Skärmavbild 2023-05-12 kl  11 17 09" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/f8c635ac-f20a-4d6c-b0c2-e072e9fd8924">
+<img width="783" alt="Heatmap" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/e53514e9-4b27-42e1-b735-4b6a078d5c41">
+
 
 The resulting frames from the frame identification code on the merged dataset is Humanitarian, Displacement, Violence and Political. The number four has been chosen since the it was considered an optimal number to have the framed seperated and not overlapping yet distinct. This variable can be modified to present more granular frames is that is relevant for the case.   
 
@@ -22,25 +23,27 @@ The resulting frames from the frame identification code on the merged dataset is
 
 *Displacement*
 <br>
-<img width="805" alt="Skärmavbild 2023-05-12 kl  11 15 52" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/6bc13b6c-1f5d-4bde-98d5-0b4dfc93898f">
-<img width="750" alt="Skärmavbild 2023-05-12 kl  11 18 13" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/4e55126d-8b47-454c-9929-e98491387af2">
+<img width="805" alt="Displacement" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/fcb11c52-41d1-4860-acc5-e36b5949432c">
+<img width="805" alt="Displacement pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/9504e3f8-6c1b-43ed-98be-15fb1fd15a63">
 
-*Humanitarian*
+<br>*Humanitarian*
 <br>
-<img width="805" alt="Skärmavbild 2023-05-12 kl  11 22 32" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/4104b4be-9452-4ff1-8864-4ff36a7b624b">
-<img width="750" alt="Skärmavbild 2023-05-12 kl  11 22 54" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/dc7165b7-8557-4199-ab77-dc07b2d11572">
+<img width="805" alt="hum" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/33572bac-5c95-4a4f-93fd-d281c6691f90">
+<img width="805" alt="hum pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/5c530785-76ca-43f3-8945-e8570bdc87bd">
 
-*Violence*
+<br>*Violence*
 <br>
-<img width="805" alt="Skärmavbild 2023-05-12 kl  11 28 51" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/1ccf57fb-19dc-4ee6-82b0-9fed2c3ea247">
-<img width="750" alt="Skärmavbild 2023-05-12 kl  11 29 04" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/e18048fc-a983-440f-820a-6e0fd7172b2a">
+<img width="805" alt="viol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/a708365a-9f8d-4434-bced-4267fc9c897a">
+<img width="805" alt="viol pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/0a1b4209-ba4a-46ad-b89e-4467a6c7481f">
 
-*Political*
+<br>*Political*
 <br>
-<img width="805" alt="Skärmavbild 2023-05-12 kl  11 30 02" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/7b6a2d4e-99ed-427a-a68c-6070da85c712">
-<img width="750" alt="Skärmavbild 2023-05-12 kl  11 30 18" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/ca56214d-ea3c-44b8-962d-de5d94b5f0d4">
+<img width="825" alt="pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/2dd078d3-ead7-4930-ade7-538f0185e6b0">
+<img width="805" alt="pol pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/8653de7c-26a3-451d-b759-14c6e622af0f">
+
 <br>
 <br>
+
 **Reccomendations**
 
 The case study indicates that an underlying bias can be detected in a set of articles which has its origin in modern news media. We want to highlight the usage of NLP methods in computational bias detection and the feasibility of such methods to monitor the media debate. Additionally the result motivates a further investigation of the refugee debate concerning Ukrainian and Syrian refugees based on the detected bias. By studying the articles’ choice of words and sentiment in different contexts, different levels of bias can be detected. 
