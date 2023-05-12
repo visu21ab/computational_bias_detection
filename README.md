@@ -15,7 +15,8 @@ To gain insights into this issue, this study proposes a framework for detecting 
 
 **Results from Frame Identification**
 <br><br>
-![heatmap_syrien](https://github.com/visu21ab/computational_bias_detection/assets/91184444/180de24f-60be-4b52-a97c-769abef94116)
+<img width="783" alt="Skärmavbild 2023-05-12 kl  16 05 03" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/26cfc004-5e21-4447-866b-815d13cf4261">
+
 
 
 The resulting frames from the frame identification code on the merged dataset is Humanitarian, Displacement, Violence and Political. The number four has been chosen since the it was considered an optimal number to have the framed seperated and not overlapping yet distinct. This variable can be modified to present more granular frames is that is relevant for the case.   
