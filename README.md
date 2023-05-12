@@ -13,7 +13,8 @@ To gain insights into this issue, this study proposes a framework for detecting 
 <img width="754" alt="overview" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/8714ce4e-37e0-4e31-a36c-f05a9d573a78">
 
 
-<br><br>**Results from Frame Identification**
+**Results from Frame Identification**
+<br><br>
 ![heatmap_syrien](https://github.com/visu21ab/computational_bias_detection/assets/91184444/180de24f-60be-4b52-a97c-769abef94116)
 
 
@@ -23,24 +24,24 @@ The resulting frames from the frame identification code on the merged dataset is
 
 *Displacement*
 <br>
-<img width="805" alt="Displacement" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/fcb11c52-41d1-4860-acc5-e36b5949432c">
-<img width="805" alt="Displacement pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/9504e3f8-6c1b-43ed-98be-15fb1fd15a63">
+<img width="805" alt="Displacement" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/dfd84262-d402-463a-946b-90ba45a57e8a">
+<img width="838" alt="Displacement pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/7800569c-7adf-4da6-9072-8d9045c35105">
 
 <br>*Humanitarian*
 <br>
-<img width="805" alt="hum" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/33572bac-5c95-4a4f-93fd-d281c6691f90">
-<img width="805" alt="hum pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/5c530785-76ca-43f3-8945-e8570bdc87bd">
+<img width="805" alt="hum" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/dda57d31-2a53-4ee6-afe0-4fdda480a836">
+<img width="838" alt="hum pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/580fea2e-b5f6-448b-ad0c-5169a736c795">
+
 
 <br>*Violence*
 <br>
-<img width="805" alt="viol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/a708365a-9f8d-4434-bced-4267fc9c897a">
-<img width="805" alt="viol pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/0a1b4209-ba4a-46ad-b89e-4467a6c7481f">
+<img width="805" alt="viol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/42c163d6-ff07-4c2b-86fb-023060e8f127">
+<img width="838" alt="viol pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/67349ce1-09ed-4fbd-9aa0-9769259e5789">
 
 <br>*Political*
 <br>
-<img width="825" alt="pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/2dd078d3-ead7-4930-ade7-538f0185e6b0">
-<img width="805" alt="pol pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/8653de7c-26a3-451d-b759-14c6e622af0f">
-
+<img width="805" alt="pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/36d342ec-691f-4ddc-b970-8c58a6f92fbb">
+<img width="838" alt="pol pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/b1a52848-d039-4952-9e50-3d82d0e68d69">
 <br>
 <br>
 
