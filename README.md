@@ -11,6 +11,8 @@ To gain insights into this issue, this study proposes a framework for detecting 
 **Results from Frame Identification**
 <img width="805" alt="Skärmavbild 2023-05-12 kl  11 17 09" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/f8c635ac-f20a-4d6c-b0c2-e072e9fd8924">
 
+The resulting frames from the frame identification code on the merged dataset is Humanitarian, Displacement, Violence and Political. The number four has been chosen since the it was considered an optimal number to have the framed seperated and not overlapping yet distinct. This variable can be modified to present more granular frames is that is relevant for the case.   
+
 **Results of Semantic Similarity and Word Vectors**
 
 *Displacement*
