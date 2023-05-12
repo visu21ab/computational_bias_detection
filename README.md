@@ -10,7 +10,8 @@ To gain insights into this issue, this study proposes a framework for detecting 
 
 **Computational Method Overview**
 <br>
-<img width="852" alt="Skärmavbild 2023-05-12 kl  12 05 27" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/72666cae-15d0-463b-9dde-235482acf0cd">
+<img width="754" alt="overview" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/8714ce4e-37e0-4e31-a36c-f05a9d573a78">
+
 
 <br><br>**Results from Frame Identification**
 <img width="805" alt="Skärmavbild 2023-05-12 kl  11 17 09" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/f8c635ac-f20a-4d6c-b0c2-e072e9fd8924">
