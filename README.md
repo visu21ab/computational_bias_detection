@@ -25,22 +25,22 @@ The resulting frames from the frame identification code on the merged dataset is
 *Displacement*
 <br>
 <img width="805" alt="Displacement" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/dfd84262-d402-463a-946b-90ba45a57e8a">
-<img width="838" alt="Displacement pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/7800569c-7adf-4da6-9072-8d9045c35105">
+<img width="805" alt="Displacement pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/7800569c-7adf-4da6-9072-8d9045c35105">
 
 <br>*Humanitarian*
 <br>
 <img width="805" alt="hum" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/dda57d31-2a53-4ee6-afe0-4fdda480a836">
-<img width="838" alt="hum pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/580fea2e-b5f6-448b-ad0c-5169a736c795">
+<img width="805" alt="hum pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/580fea2e-b5f6-448b-ad0c-5169a736c795">
 
 
 <br>*Violence*
 <br>
 <img width="805" alt="viol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/42c163d6-ff07-4c2b-86fb-023060e8f127">
-<img width="838" alt="viol pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/67349ce1-09ed-4fbd-9aa0-9769259e5789">
+<img width="805" alt="viol pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/67349ce1-09ed-4fbd-9aa0-9769259e5789">
 
 <br>*Political*
 <br>
-<img width="805" alt="pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/36d342ec-691f-4ddc-b970-8c58a6f92fbb">
+<img width="830" alt="pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/36d342ec-691f-4ddc-b970-8c58a6f92fbb">
 <img width="838" alt="pol pol" src="https://github.com/visu21ab/computational_bias_detection/assets/91184444/b1a52848-d039-4952-9e50-3d82d0e68d69">
 <br>
 <br>
